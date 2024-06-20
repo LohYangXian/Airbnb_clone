@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
+1. Install Docker
+2. Install PostgreSQL 
+3. Install VSCode (for Frontend)
+4. Install Intellij (for Backend)
+5. Git Clone
