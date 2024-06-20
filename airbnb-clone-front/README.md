@@ -33,3 +33,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 3. Install VSCode (for Frontend)
 4. Install Intellij (for Backend)
 5. Git Clone
+
+##Frontend
+1. cd airbnb-clone-front
+2. npm install
+3. ng serve
